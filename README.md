@@ -9,7 +9,7 @@ This is a research project, submitted in Partial Fulfillment of a Masters II at 
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<!--<p align="right">(<a href="#top">back to top</a>)</p>-->
 
 
 
@@ -20,7 +20,7 @@ Andriamarolahy Rabetokotany - [@Massa_Be](https://twitter.com/Massa_Be) - arabet
 
 Project Link: [https://github.com/marolAI/VQA-BERT](https://github.com/marolAI/VQA-BERT)
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<!--<p align="right">(<a href="#top">back to top</a>)</p>-->
 
 
 
@@ -30,4 +30,4 @@ Project Link: [https://github.com/marolAI/VQA-BERT](https://github.com/marolAI/V
 I gratefully acknowledge the help provided by [Pr. Stefan Lee](https://web.engr.oregonstate.edu/~leestef/) for supervising me along this work.
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+<!--<p align="right">(<a href="#top">back to top</a>)</p>-->
